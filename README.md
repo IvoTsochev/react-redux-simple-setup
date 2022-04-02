@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Create React App
 # and React Redux
 
 Simple React-Redux setup with comments
